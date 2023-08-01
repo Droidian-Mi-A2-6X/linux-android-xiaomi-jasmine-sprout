@@ -960,3 +960,7 @@ CONFIG_ANDROID_BINDER_DEVICES="binder,hwbinder,vndbinder,anbox-binder,anbox-hwbi
 CONFIG_WIREGUARD=y
 
 CONFIG_BINFMT_MISC=y
+
+# Debugging
+
+CONFIG_DEBUG_BUGVERBOSE=y
